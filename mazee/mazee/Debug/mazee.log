@@ -1,0 +1,5 @@
+﻿  mazee.cpp
+c:\users\josel\documents\visual studio 2015\projects\mazee\mazee\mazee.cpp(295): warning C4553: '==': operator has no effect; did you intend '='?
+c:\users\josel\documents\visual studio 2015\projects\mazee\mazee\mazee.cpp(59): warning C4715: 'Stack::pop': not all control paths return a value
+  mazee.vcxproj -> C:\Users\Josel\documents\visual studio 2015\Projects\mazee\Debug\mazee.exe
+  mazee.vcxproj -> C:\Users\Josel\documents\visual studio 2015\Projects\mazee\Debug\mazee.pdb (Full PDB)
